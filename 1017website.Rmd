@@ -1,0 +1,24 @@
+---
+title: "My awesome website"
+output: 
+html_document:
+toc: true
+toc_float: true
+theme: cerulean
+---
+# This is Jeff's awesome website(
+ ![](https://media.giphy.com/media/ drXGoW1iudhKw/giphy.gif)
+
+# lets add some links
+
+I often use [google](google.com) to do data science
+
+#lets have image
+here's my food.
+
+![](IMG_4435.jpeg)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
